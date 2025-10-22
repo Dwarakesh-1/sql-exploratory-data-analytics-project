@@ -1,6 +1,7 @@
 # 📊 SQL Exploratory Data Analytics Project
 ---
 ## 📌 Overview
+
 This project showcases the use of SQL for performing exploratory data analysis (EDA) on a structured dataset. The goal is to uncover insights, identify patterns, and prepare the data for further modeling or reporting. It demonstrates proficiency in writing efficient SQL queries to clean, summarize, and visualize data directly within a relational database environment.
 ---
 ### 🧠 Objectives
